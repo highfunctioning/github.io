@@ -18,7 +18,7 @@ Cyber Defense Analyst
 
 
 
-Skills
+### Skills
 Projects	Skills/Knowledge Gained
 1 - Conduct a security audit	INFOSEC, NIST Risk Management Framework, Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks, CISSP, CIA triad
 2 - Network Security	TCP/IP model, Network Architecture, Network Communication, Security Hardening, Network Security, Cloud Networks
@@ -30,7 +30,7 @@ Projects	Skills/Knowledge Gained
 8 - Automation with Python	Computer Programming, Python Programming, Coding, PEP 8 Style Guide
 
 
-Tools
+### Tools
 Several tools that I used:
 
 Google Workspace (Drive, Docs, Sheets, Slides)
@@ -44,6 +44,6 @@ Splunk
 Suricata
 Python
 
-Stay tuned for updates!
+## Stay tuned for updates!
 
 This portfolio will continuously grow as I complete more certificates and projects. I encourage you to visit again to see my progress and learn more about my skills and experience. Thank you for your time. For more information, please connect with me on Linkedin.
