@@ -15,6 +15,9 @@ SOC Analyst
 Information Security Analyst
 IT Security Analyst
 Cyber Defense Analyst
+
+
+
 Skills
 Projects	Skills/Knowledge Gained
 1 - Conduct a security audit	INFOSEC, NIST Risk Management Framework, Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks, CISSP, CIA triad
@@ -25,6 +28,8 @@ Projects	Skills/Knowledge Gained
 6 - Tcpdump & Wireshark	Packet Analyzer
 7 - IDS & SIEM	Intrusion Detection System (IDS): Suricata, Security Information and Event Management (SIEM): Chronicle, Splunk
 8 - Automation with Python	Computer Programming, Python Programming, Coding, PEP 8 Style Guide
+
+
 Tools
 Several tools that I used:
 
