@@ -1,6 +1,6 @@
 # My-Cybersecurity-Portfolio
 
-I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Google Cybersecurity Professional Certificate. This program has provided insights into:
+I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Ec-Council Certified Ethical Hacker Certificate. This program has provided insights into:
 
 Programming for cybersecurity tasks
 Frameworks and controls that inform security operations
