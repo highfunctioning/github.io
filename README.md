@@ -60,7 +60,7 @@ Rita
 - **Description**: Developed a Jython script plugin for Ghidra targeting known DLL injection techniques. Demonstrated DLL injection in game, showcasing the vulnerabilities. Integrated script into Ghidra to automatically identify instances of these functions in binaries, alerting users to possible DLL injection attacks.
 - **Technologies Used**: Reverse engineering tool Gidra,Python, Java, Wesnoth Game, DLL.
 - **Repository Link**: [GitHub Repository](https://github.com/highfunctioning/ghidra_jython)
-- 
+
 ### Stay tuned for updates!
 
 This portfolio will continuously grow as I complete more certificates and projects. I encourage you to visit again to see my progress and learn more about my skills and experience. Thank you for your time. For more information, please connect with me on Linkedin.
