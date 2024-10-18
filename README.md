@@ -69,7 +69,7 @@ digital signatures with private keys to authenticate entitie
 ### Ghindra Reverse engineering tool plugin
 - **Description**: Developed a Jython script plugin for Ghidra targeting known DLL injection techniques. Demonstrated DLL injection in game, showcasing the vulnerabilities. Integrated script into Ghidra to automatically identify instances of these functions in binaries, alerting users to possible DLL injection attacks.
 - **Technologies Used**: Reverse engineering tool Gidra,Python, Java, Wesnoth Game, DLL.
-- **Repository Link**: [GitHub Repository](https://github.com/highfunctioning/ghidra_jython)
+- **Repository Link**: [more](https://github.com/highfunctioning/ghidra_jython)
 
 ### Cloud Platform and Network Security 
 • Installed OpenStack to deploy a multi-node virtual network and security assessments.
