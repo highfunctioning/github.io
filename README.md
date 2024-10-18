@@ -87,8 +87,9 @@ providing detailed device information alongside packet analysis capabilities.
 detection, aiming to optimize efficiency in Kernel Fuzzer.
   
 ## Experience
-- Challenge designer AtHackCTF, Concordia University's first national Capture The Flag competition brought to you by TECHNATION and Hexploit-Alliance.
-- Cyber Security Intern
+- Challenge designer AtHackCTF, Concordia University's first national Capture The Flag competition brought to you by TECHNATION and Hexploit-Alliance. [more](https://github.com/highfunctioning/crackme)
+  
+Cyber Security Intern
 Police Cyber Security Summer Internship Gurugram, India
 • Reviewed 20+ live cybercrime case studies, social engineering attacks, phishing, ransomware, and data breaches.
 • Collaborated with law enforcement officers to analyze, interpret digital evidence, improving outcomes by 15 percent.
