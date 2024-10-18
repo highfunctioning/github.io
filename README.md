@@ -62,12 +62,12 @@ Rita
 
 ## My Projects
 
-### Project 1
+### Ghindra Reverse engineering tool plugin
 - **Description**: Developed a Jython script plugin for Ghidra targeting known DLL injection techniques. Demonstrated DLL injection in game, showcasing the vulnerabilities. Integrated script into Ghidra to automatically identify instances of these functions in binaries, alerting users to possible DLL injection attacks.
 - **Technologies Used**: Reverse engineering tool Gidra,Python, Java, Wesnoth Game, DLL.
 - **Repository Link**: [GitHub Repository](https://github.com/highfunctioning/ghidra_jython)
 
-  # Challenge designer AtHackCTF, Concordia University's first national Capture The Flag competition brought to you by TECHNATION and Hexploit-Alliance. 
+ Challenge designer AtHackCTF, Concordia University's first national Capture The Flag competition brought to you by TECHNATION and Hexploit-Alliance. 
 
 ### Stay tuned for updates!
 
