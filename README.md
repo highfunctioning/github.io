@@ -4,9 +4,9 @@ I have developed a cybersecurity portfolio showcasing various tasks and projects
 
 ### Programming for cybersecurity tasks
 ### Frameworks and controls that inform security operations
-# SIEM tools for cybersecurity
-# Detecting and responding to incidents using an intrusion detection system
-# Performing packet capture and analysis
+### SIEM tools for cybersecurity
+### Detecting and responding to incidents using an intrusion detection system
+### Performing packet capture and analysis
 
 
 Additionally, it has paved the way for me to pursue one of the entry-level following roles:
