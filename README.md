@@ -1,12 +1,16 @@
 # My-Cybersecurity-Portfolio
 
-I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Ec-Council Certified Ethical Hacker Certificate. This program has provided insights into:
+I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Ec-Council Certified Ethical Hacker Certificate as well during my graduation in Master's degree in Information Systems Secuirty. This program has provided insights into:
 
 - Programming for cybersecurity tasks
 - Frameworks and controls that inform security operations
 - SIEM tools for cybersecurity
 - Detecting and responding to incidents using an intrusion detection system
 - Performing packet capture and analysis
+- Cloud security
+- Block-chain Technologies
+- Operating systems security
+  
 
 
 Additionally, it has paved the way for me to pursue one of the entry-level following roles:
