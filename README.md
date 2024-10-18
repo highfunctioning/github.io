@@ -2,7 +2,7 @@
 
 I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Ec-Council Certified Ethical Hacker Certificate. This program has provided insights into:
 
-# Programming for cybersecurity tasks
+### Programming for cybersecurity tasks
 # Frameworks and controls that inform security operations
 # SIEM tools for cybersecurity
 # Detecting and responding to incidents using an intrusion detection system
