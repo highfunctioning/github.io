@@ -1,15 +1,21 @@
-# My-Cybersecurity-Portfolio
+🔐 My Cybersecurity Portfolio
+Welcome to my cybersecurity portfolio
+a showcase of my projects and experiences from earning the EC-Council Certified Ethical Hacker (CEH) certification and completing a Master's in Information Systems Security.
 
-I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Ec-Council Certified Ethical Hacker Certificate as well during my graduation in Master's degree in Information Systems Secuirty. This program has provided insights into:
+🎯 Core Competencies
+Security Programming & Automation (Python, Bash, SQL)
 
-- Programming for cybersecurity tasks
-- Frameworks and controls that inform security operations
-- SIEM tools for cybersecurity
-- Detecting and responding to incidents using an intrusion detection system
-- Performing packet capture and analysis
-- Cloud security
-- Block-chain Technologies
-- Operating systems security
+Incident Detection & Response (Suricata, Chronicle, Splunk)
+
+Cloud & Network Security (OpenStack, Snort, TCP/IP)
+
+Vulnerability Assessment & Cryptography (RSA, Threat Modeling)
+
+Operating System & Kernel Security (Linux, Syzkaller)
+
+Blockchain & IoT Security
+
+Security Frameworks: NIST RMF, CIS Controls, ISO 27001, CIA Triad
   
 
 
@@ -25,39 +31,56 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 
 
 ### Skills
-Projects	Skills/Knowledge Gained
+Skills/Knowledge Gained
+1	Security Audit	INFOSEC, NIST RMF, CISSP, CIA Triad, Incident Response Playbooks
+2	Network Security	TCP/IP, Network Architecture, Firewalls, VPNs, Azure Network Security Groups (NSGs), Azure Firewall
+3	Cloud Security	Microsoft Azure, OpenStack, IAM, Azure Defender, DDoS Protection, Azure Security Center
+4	SIEM & SOC Operations	Microsoft Sentinel, Chronicle, Splunk, Suricata, KQL, Security Alert Triage, Log Correlation
+5	Threat Detection & Response	Incident Lifecycle, Threat Hunting, Detection Rules, SOAR (Logic Apps), MITRE ATT&CK
+6	Linux & SQL	Bash, Shell Scripting, Linux OS, SQL Queries
+7	Cryptography & Risk Assessment	RSA, Digital Signature, Threat Modeling, Risk Analysis
+8	Packet Analysis	Wireshark, tcpdump, PCAP, Network Forensics
+9	Scripting & Automation	Python, Bash, Automation Scripts, Regex, PEP 8
+10	Reverse Engineering	Ghidra, Jython, DLL Injection, Binary Analysis
+11	IoT & Endpoint Security	MAC-based Identification, API Integration, Device Profiling
+12	Cloud SOC Projects	Monitoring Azure AD, VMs, and Sentinel Logs; Automating Playbooks using Logic Apps
 
-1 - Conduct a security audit	INFOSEC, NIST Risk Management Framework, Security Audits, NIST Cybersecurity Framework, Incident Response Playbooks, CISSP, CIA triad
 
-2 - Network Security	TCP/IP model, Network Architecture, Network Communication, Security Hardening, Network Security, Cloud Networks
-
-3 - Linux & SQL	Command-line Interface, SQL, Linux, Bash
-
-4 - Assets, Threats, & Vulnerabilities	Authentication,  Vulnerability assessment, Cryptography, Asset Classification, Threat Modelling Analysis
-
-5 - Detection & Response	Incident Lifecycle, Incident Journal
-
-6 - Tcpdump & Wireshark	Packet Analyzer
-
-7 - IDS & SIEM	Intrusion Detection System (IDS): Suricata, Security Information and Event Management (SIEM): Chronicle, Splunk
-
-8 - Automation with Python	Computer Programming, Python Programming, Coding, PEP 8 Style Guide
 
 
 ### Tools
 Several tools that I used:
+Cloud & Infrastructure:
+Microsoft Azure, OpenStack, Azure Security Center, Azure AD, Azure Firewall, NSG, VPN Gateway
 
-Google Workspace (Drive, Docs, Sheets, Slides)
-Markdown Language
-Tcpdump
-Wireshark
-Linux OS
-SQL
-Chronicle
-Splunk
-Suricata
-Python
-Rita 
+SIEM & SOC Operations:
+Microsoft Sentinel, Chronicle, Splunk, Microsoft Defender XDR, Logic Apps
+
+Intrusion Detection / Prevention & Packet Analysis:
+Suricata, Snort, Wireshark, Tcpdump, PCAP
+
+Programming & Scripting:
+Python, Bash, KQL (Kusto Query Language), SQL, Regex, PEP 8
+
+Burp Suite – Web vulnerability scanning and exploitation
+
+Metasploit Framework – Exploit development and post-exploitation
+
+Nmap – Port scanning and network discovery
+
+Hydra – Credential brute-forcing
+
+Aircrack-ng – Wireless network testing
+
+SQLMap – SQL injection automation
+
+Dirb / Gobuster – Web directory brute-forcing
+
+Setoolkit (SET) – Social engineering attack simulation
+
+Nikto – Web server vulnerability scanner
+
+Python/Bash Scripts – Custom exploit automation 
 
 
 ## My Projects
