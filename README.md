@@ -50,37 +50,36 @@ Skills/Knowledge Gained
 
 ### Tools
 Several tools that I used:
-Cloud & Infrastructure:
+
+#Cloud & Infrastructure:
 Microsoft Azure, OpenStack, Azure Security Center, Azure AD, Azure Firewall, NSG, VPN Gateway
 
-SIEM & SOC Operations:
+#SIEM & SOC Operations:
 Microsoft Sentinel, Chronicle, Splunk, Microsoft Defender XDR, Logic Apps
 
-Intrusion Detection / Prevention & Packet Analysis:
+#Intrusion Detection / Prevention & Packet Analysis:
 Suricata, Snort, Wireshark, Tcpdump, PCAP
 
-Programming & Scripting:
+#Programming & Scripting:
 Python, Bash, KQL (Kusto Query Language), SQL, Regex, PEP 8
 
-Burp Suite – Web vulnerability scanning and exploitation
+#Burp Suite – Web vulnerability scanning and exploitation
 
-Metasploit Framework – Exploit development and post-exploitation
+#Metasploit Framework – Exploit development and post-exploitation
 
-Nmap – Port scanning and network discovery
+#Nmap – Port scanning and network discovery
 
-Hydra – Credential brute-forcing
+#Hydra – Credential brute-forcing
 
-Aircrack-ng – Wireless network testing
+#Aircrack-ng – Wireless network testing
 
-SQLMap – SQL injection automation
+#SQLMap – SQL injection automation
 
-Dirb / Gobuster – Web directory brute-forcing
+#Dirb / Gobuster – Web directory brute-forcing
 
-Setoolkit (SET) – Social engineering attack simulation
+#Nikto – Web server vulnerability scanner
 
-Nikto – Web server vulnerability scanner
 
-Python/Bash Scripts – Custom exploit automation 
 
 
 ## My Projects
